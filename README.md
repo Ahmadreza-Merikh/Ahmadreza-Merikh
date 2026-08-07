@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hi, I'm Ahmadreza 👋
 
-<!--
-**Ahmadreza-Merikh/Ahmadreza-Merikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on **Natural Language Processing** and **Speech Processing**, 
+with a special interest in Persian language technologies.
 
-Here are some ideas to get you started:
+I work on deep learning systems involving:
+- Persian NLP
+- Automatic Speech Recognition (ASR)
+- Multimodal AI
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently
+
+- Building practical AI systems for Persian language
+- Exploring speech and language models
+- Learning and sharing in public
+
+---
+
+### Connect with me
+
+- GitHub: [Ahmadreza-Merikh](https://github.com/Ahmadreza-Merikh)
+- Hugging Face: [Ahmadreza-Merikh](https://huggingface.co/Ahmadreza-Merikh)
+- LinkedIn: [Ahmadreza Merikh](https://linkedin.com/in/ahmadreza-merikh-477867289)
+- X: [@AhmadrezaMerikh](https://x.com/AhmadrezaMerikh)
+
+---
+
+### Tech I work with
+
+`Python` `PyTorch` `Transformers` `Hugging Face` `Speech Recognition` `NLP` `Deep Learning`
